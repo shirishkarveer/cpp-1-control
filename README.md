@@ -1,4 +1,4 @@
-This challenge is about using a collection (list) of integers and allowing the user
+This project is about using a collection (list) of integers and allowing the user
     to select options from a menu to perform operations on the list.
     
     Your program should display a menu options to the user as follows:
@@ -39,15 +39,5 @@ For example, if the list contains [2 4 5 1], you should display, "The largest nu
 If the list is empty you should display, "Unable to determine the largest number - list is empty"
 
 If the user enters 'Q' or 'q' then you should display 'Goodbye" and the program should terminate
-
-Finally, be sure to test your program as you go and at the end.
-
-Hint: Use a vector!
-
-Additional functionality if you wish to extend this program.
-
-- search for a number in the list and if found display the number of times it occurs in the list
-- clearing out the list (make it empty again) (Hint: the vector class has a .clear() method)
-- don't allow duplicate entries
 
 */
