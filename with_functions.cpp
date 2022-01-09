@@ -1,3 +1,4 @@
+//same project solved with functions
 #include <iostream>
 #include <vector>
 #include <cctype>   // for toupper
